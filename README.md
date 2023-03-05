@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **xuanthanhduong94@gmail.com**
 
-- ⚡ Fun fact **I was given a boy name by my Opa**
+- ⚡ Fun fact: **I was given a male name by my Opa**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
