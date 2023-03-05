@@ -18,7 +18,7 @@
 <br/>
 <h2 align="left">Connect with me</h2>
 <p align="left">
-<a href="https://linkedin.com/in/xuanthanhduong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xuanthanhduong" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/xuanthanhduong" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xuanthanhduong" height="20" width="20" /></a>
 </p>
 <br/>
 <h2 align="left">My current tech stack</h2>
