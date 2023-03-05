@@ -3,7 +3,7 @@
 <h3 align="center">Junior fullstack developer</h3>
 <img align="right" alt="Coding" width="350" src="https://camo.githubusercontent.com/4aa77ea32aa4d7be626e833b160f3d8923c133cd32c34fefbdc43c8abfcff710/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966">
 
-
+<h2 align="left">About me</h2>
 - 🔭 I’m currently working on [my personal project FinWise](https://github.com/ThanhXuanDuong/financial-management-FinWise)
 
 - 🌱 I’m currently learning **Redux**
@@ -14,13 +14,13 @@
 
 - ⚡ Fun fact: **I was given a male name by my Opa**
 
-
-<h3 align="left">Connect with me:</h3>
+<br/>
+<h2 align="left">Connect with me</h2>
 <p align="left">
 <a href="https://linkedin.com/in/xuanthanhduong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xuanthanhduong" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
+<br/>
+<h2 align="left">My current tech stack</h2>
 <p align="left"> 
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
