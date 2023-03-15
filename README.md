@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [my personal project FinWise](https://github.com/ThanhXuanDuong/financial-management-FinWise)
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **Redux, MySQL**
 
 - 👨‍💻 All of my projects are available at [https://xuanthanhduong.fly.dev](https://xuanthanhduong.fly.dev)
 
